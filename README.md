@@ -1,2 +1,2 @@
 # Simple-Web-Scrapping
-Simple python program to scrap wikipedia table data
+Simple python program for scraping Wikipedia table data
